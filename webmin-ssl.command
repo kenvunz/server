@@ -15,3 +15,5 @@ cat server.key > /etc/webmin/miniserv.pem
 cat server.crt >> /etc/webmin/miniserv.pem
 
 rm ./server.*
+
+/etc/webmin/restart
