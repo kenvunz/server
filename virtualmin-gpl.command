@@ -8,3 +8,5 @@
 wget http://software.virtualmin.com/gpl/scripts/install.sh
 
 sh ./install.sh
+
+bash ./webmin-ssl.command
